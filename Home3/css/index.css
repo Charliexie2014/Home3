@@ -1,5 +1,15 @@
 *{margin: 0;padding: 0;color: #FFFFFF;-webkit-box-sizing: border-box;    -moz-box-sizing: border-box;    box-sizing: border-box;}
-body{background:#ccc;}
+body{background:#ccc;
+border:2px solid #0000cc;
+	width:90%;
+	margin:0px auto;
+	padding:20px;
+	background-color:#00cc33;
+	box-shadow:60px 60px 60px #0099cc;
+	
+	border-radius:30px;
+
+}
 ul li{list-style-type: none;}
 a{text-decoration:none; }
 div{display: block;}
